@@ -1,0 +1,468 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.10f1 (ff3792e53c62) revision 16725906'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'zh' Physical Memory: 32607 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ABC/Desktop/学习文件夹/3039/FIT3039_FIT3040_Project copy
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+4892
+Successfully changed project path to: C:/Users/ABC/Desktop/学习文件夹/3039/FIT3039_FIT3040_Project copy
+C:/Users/ABC/Desktop/学习文件夹/3039/FIT3039_FIT3040_Project copy
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15976] Host "[IP] 192.168.1.70 [Port] 0 [Flags] 2 [Guid] 626547044 [EditorId] 626547044 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-N69D40A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15976] Host "[IP] 192.168.1.70 [Port] 0 [Flags] 2 [Guid] 626547044 [EditorId] 626547044 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-N69D40A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Refreshing native plugins compatible for Editor in 8.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.10f1 (ff3792e53c62)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ABC/Desktop/学习文件夹/3039/FIT3039_FIT3040_Project copy/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8032 MB
+    Driver:   31.0.15.4592
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004208 seconds.
+- Loaded All Assemblies, in  0.278 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.140 seconds
+Domain Reload Profiling: 417ms
+	BeginReloadAssembly (107ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (106ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (104ms)
+			TypeCache.Refresh (103ms)
+				TypeCache.ScanAssembly (92ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (141ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (109ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (68ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.383 seconds
+Refreshing native plugins compatible for Editor in 2.91 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.349 seconds
+Domain Reload Profiling: 730ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (11ms)
+	RebuildCommonClasses (18ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (244ms)
+		LoadAssemblies (206ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (90ms)
+			TypeCache.Refresh (73ms)
+				TypeCache.ScanAssembly (66ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (350ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (255ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4747 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 81 unused Assets / (1.6 MB). Loaded Objects now: 5331.
+Memory consumption went from 202.0 MB to 200.5 MB.
+Total: 2.006400 ms (FindLiveObjects: 0.179100 ms CreateObjectMapping: 0.058400 ms MarkObjects: 1.542400 ms  DeleteObjects: 0.225300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 814827.664068 seconds.
+  path: Assets/Textures/BabyRoom/book/book5
+  artifactKey: Guid(a723e1c7511860943b82339110b862f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/book/book5 using Guid(a723e1c7511860943b82339110b862f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bdcacac88767127d916c259873350a') in 0.001656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 187.332250 seconds.
+  path: Assets/Textures/BabyRoom/desklight
+  artifactKey: Guid(72b8b9f49f2ad7a4fbd52d271b56e803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/desklight using Guid(72b8b9f49f2ad7a4fbd52d271b56e803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e349ed4f947c1a9a44442a59937ef0') in 0.000687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1365.261750 seconds.
+  path: Assets/Materials/BabyRoom/hua
+  artifactKey: Guid(f44941e4ee0f62040bc12f522aaf09ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BabyRoom/hua using Guid(f44941e4ee0f62040bc12f522aaf09ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee443fcb9b38a626e95c6a43dddc006') in 0.000500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 24.413630 seconds.
+  path: Assets/Textures/BabyRoom/hua/hua3
+  artifactKey: Guid(89b40fa3ad27eb64c82c41941fe7bd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/hua/hua3 using Guid(89b40fa3ad27eb64c82c41941fe7bd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7295bbd7346d1d45b8bbbc9b5cd0b924') in 0.000525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 453.205722 seconds.
+  path: Assets/Textures/BabyRoom/hua/hua4
+  artifactKey: Guid(e42111c4af63955468c8eca479e7fce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/hua/hua4 using Guid(e42111c4af63955468c8eca479e7fce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40430eb7c84bd88e565c97154f425ed3') in 0.000551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 157.853137 seconds.
+  path: Assets/Textures/BabyRoom/cubechair
+  artifactKey: Guid(e8e5d7184b7780243b0f82e9f6e52f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/cubechair using Guid(e8e5d7184b7780243b0f82e9f6e52f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8547dc2593d489a82ecf5e0ba9a2c20') in 0.000390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 224.937139 seconds.
+  path: Assets/Textures/BabyRoom/rock horse
+  artifactKey: Guid(8689fd805c8177045b5c230dc4307365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/rock horse using Guid(8689fd805c8177045b5c230dc4307365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdebce48c79a4a3c0f77bed08cb2a814') in 0.000433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 87.407302 seconds.
+  path: Assets/Meshes/babyroom/Trojan horse.obj
+  artifactKey: Guid(bf0599f7f3afe4248b42b967ddefb4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/Trojan horse.obj using Guid(bf0599f7f3afe4248b42b967ddefb4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7062712ab4e013bec212a12126125724') in 0.292778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 72
+========================================================================
+Received Import Request.
+  Time since last request: 50.151192 seconds.
+  path: Assets/Meshes/babyroom/Trojan horse.obj
+  artifactKey: Guid(bf0599f7f3afe4248b42b967ddefb4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/Trojan horse.obj using Guid(bf0599f7f3afe4248b42b967ddefb4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad36a6bc5bc6ebe8076ed7bfcd373c3a') in 0.058143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 76
+========================================================================
+Received Import Request.
+  Time since last request: 181.521545 seconds.
+  path: Assets/Textures/BabyRoom/babydiban
+  artifactKey: Guid(bc14132bb1ac1fe459b4a2dbd8935bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/babydiban using Guid(bc14132bb1ac1fe459b4a2dbd8935bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecea70623ec06ca79f7204911bb9f5b9') in 0.000654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 468.565287 seconds.
+  path: Assets/Textures/BabyRoom/babydiban1
+  artifactKey: Guid(a1c85fd81f01cdb49afa7eb09234d337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/babydiban1 using Guid(a1c85fd81f01cdb49afa7eb09234d337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52829fa13a646ea7cc6f350ac19278f5') in 0.000779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 75.886538 seconds.
+  path: Assets/Materials/BabyRoom/babydiban1.fbx
+  artifactKey: Guid(1db3b03f024c11145857c0ae827fbfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BabyRoom/babydiban1.fbx using Guid(1db3b03f024c11145857c0ae827fbfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203619989f37d35b5ef87bf5975f59a5') in 0.031854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 9.388957 seconds.
+  path: Assets/Meshes/babyroom/babydiban1.fbx
+  artifactKey: Guid(33ab48da0eda1474497418daa1290f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/babydiban1.fbx using Guid(33ab48da0eda1474497418daa1290f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd164057e6b7c460ca2565c233963a686') in 0.012363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 17.114822 seconds.
+  path: Assets/Meshes/babyroom/babydiban1.fbx
+  artifactKey: Guid(33ab48da0eda1474497418daa1290f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/babydiban1.fbx using Guid(33ab48da0eda1474497418daa1290f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ee8f0644bbc58d99a6115f2c1631ad') in 0.030255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 404.001198 seconds.
+  path: Assets/Textures/BabyRoom/hua/hua5
+  artifactKey: Guid(a72ade16d4834d440883adfdaf6dce4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/hua/hua5 using Guid(a72ade16d4834d440883adfdaf6dce4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5c83279cc0dbe38300dcc3b8984456') in 0.000765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 271.410197 seconds.
+  path: Assets/Textures/BabyRoom/guagou
+  artifactKey: Guid(ed58e90c49adca447b33cf8c992b2c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/guagou using Guid(ed58e90c49adca447b33cf8c992b2c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe2a91600770914e1261c9aaa1b7165') in 0.000625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 136.333129 seconds.
+  path: Assets/Meshes/babyroom/bed.fbx
+  artifactKey: Guid(b985df184a4c16f49906b61769a78deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/bed.fbx using Guid(b985df184a4c16f49906b61769a78deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fafe8c75bf117d910af4e4d9c19452') in 0.186995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 100
+========================================================================
+Received Import Request.
+  Time since last request: 58.639526 seconds.
+  path: Assets/Meshes/babyroom/babybed_part1.obj
+  artifactKey: Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/babybed_part1.obj using Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da47ddaf1a86910fc7b7e4e63519784') in 0.167296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 161
+========================================================================
+Received Import Request.
+  Time since last request: 8.005106 seconds.
+  path: Assets/Meshes/babyroom/babybed_part1.obj
+  artifactKey: Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/babybed_part1.obj using Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e69afc5d98811e9db3208a72600e8f1') in 0.177018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 187
+========================================================================
+Received Import Request.
+  Time since last request: 119.738929 seconds.
+  path: Assets/Textures/BabyRoom/babaybed
+  artifactKey: Guid(76c05123e84f0bf46b483c1534419d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/babaybed using Guid(76c05123e84f0bf46b483c1534419d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76dfc36cdccb04d838761a971e8c8eb') in 0.000554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.024823 seconds.
+  path: Assets/Textures/BabyRoom/babaybed/Roughness.png
+  artifactKey: Guid(fc2abb88d75bd564c9c81da75905dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/babaybed/Roughness.png using Guid(fc2abb88d75bd564c9c81da75905dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceac3d51c2da8ce15192f2c51bd78074') in 0.040524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 146.956185 seconds.
+  path: Assets/Meshes/babyroom/babybed_part1.obj
+  artifactKey: Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/babybed_part1.obj using Guid(68d04e41e97ad5a42b9a0a408559eac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92731a450307316356698193fe39822') in 0.145699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 162
+========================================================================
+Received Import Request.
+  Time since last request: 835.322877 seconds.
+  path: Assets/Meshes/babyroom/sword.fbx
+  artifactKey: Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/sword.fbx using Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102f4b31c46caf8fcf1d8a7300073794') in 0.116218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 33
+========================================================================
+Received Import Request.
+  Time since last request: 58.936948 seconds.
+  path: Assets/Textures/BabyRoom/sword
+  artifactKey: Guid(8b8fb24a321bffd4b87488cf3c010a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/BabyRoom/sword using Guid(8b8fb24a321bffd4b87488cf3c010a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358db5e07fbc11910b5c0865fc425b6e') in 0.000404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 44.453742 seconds.
+  path: Assets/Meshes/babyroom/sword.fbx
+  artifactKey: Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/sword.fbx using Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91848b5775ca4bd9b5c96253b4c0790') in 0.052985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 33
+========================================================================
+Received Import Request.
+  Time since last request: 1.662455 seconds.
+  path: Assets/Materials/BabyRoom/babybed.mat
+  artifactKey: Guid(556819b70e2ee8b4191e07fbe388ee14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BabyRoom/babybed.mat using Guid(556819b70e2ee8b4191e07fbe388ee14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7bcb52177e55b651aa173efb61776e') in 0.014577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 6.153207 seconds.
+  path: Assets/Meshes/babyroom/sword.fbx
+  artifactKey: Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/babyroom/sword.fbx using Guid(3fc772494bf58f14f8f66c92457d7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119c8e2ffdf8974072de6a96230546d1') in 0.052999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 33
+========================================================================
+Received Import Request.
+  Time since last request: 285.286513 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_Normal.png
+  artifactKey: Guid(7d5c0d80691c26143ba5a1d38c1a6074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_Normal.png using Guid(7d5c0d80691c26143ba5a1d38c1a6074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958ff1bfbddcf4099f3a580d05fe04c4') in 0.019972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.563226 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_AlbedoTransparency.png
+  artifactKey: Guid(468ebabc6edc5be4b8c25da91eb98823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_AlbedoTransparency.png using Guid(468ebabc6edc5be4b8c25da91eb98823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1b752a2d17ab45058bf704bb2ff4a1') in 0.007782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.144004 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_Normal 1.png
+  artifactKey: Guid(dca503d9823d81e45854e3b11e9e06b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang1/shuangmianqiang1_shuangmianqiang1_Normal 1.png using Guid(dca503d9823d81e45854e3b11e9e06b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f8f0ac4f64fac5d99ed305a308ab31') in 0.007102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 80.632246 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang2/shuangmianqiang2_shuangmianqiang1_AO.png
+  artifactKey: Guid(0c2ce91518a1b344fa392bc4c4ddb1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang2/shuangmianqiang2_shuangmianqiang1_AO.png using Guid(0c2ce91518a1b344fa392bc4c4ddb1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225a2ac7cd5c9046b3527e13703b7911') in 0.007616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 65.227707 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang3/shuangmianqiang3_shuangmianqiang1_AO.png
+  artifactKey: Guid(7f36782c94d9d5d4b909e6dba00ae544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang3/shuangmianqiang3_shuangmianqiang1_AO.png using Guid(7f36782c94d9d5d4b909e6dba00ae544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158d21a9517cc5b145e0e20897ced897') in 0.016883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 69.422504 seconds.
+  path: Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang4/shuangmianqiang5_shuangmianqiang1_AO.png
+  artifactKey: Guid(5d8f5b0838d90b645aad612c5f2143f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianqiang/shuangmianqiang4/shuangmianqiang5_shuangmianqiang1_AO.png using Guid(5d8f5b0838d90b645aad612c5f2143f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6a46f17d0fe4da8cf65fda21de3849') in 0.007752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 522.123285 seconds.
+  path: Assets/Textures/basemesh/shuangmianyan/shuangmianyan1/shuangmianyan_shuangmianyan_AlbedoTransparency.png
+  artifactKey: Guid(312270646753a144589538135be63bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianyan/shuangmianyan1/shuangmianyan_shuangmianyan_AlbedoTransparency.png using Guid(312270646753a144589538135be63bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23bc5fc59ed6d5145dc7bfbb54ee0713') in 0.010865 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 141.544310 seconds.
+  path: Assets/Textures/basemesh/shuangmianyan/shuangmianyan2/shuangmianyan2_shuangmianyan_AlbedoTransparency.png
+  artifactKey: Guid(4b4435d42058c2d49a288f5ef847db7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/shuangmianyan/shuangmianyan2/shuangmianyan2_shuangmianyan_AlbedoTransparency.png using Guid(4b4435d42058c2d49a288f5ef847db7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c5224a3f0845da4acd3b45bad1deaa') in 0.013742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 389.961048 seconds.
+  path: Assets/Textures/basemesh/ttianhuaban/tianhuaban2/tinahuaban2_tianhuaban_AlbedoTransparency.png
+  artifactKey: Guid(861a6f731ecc92b428bce139c6a644ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/basemesh/ttianhuaban/tianhuaban2/tinahuaban2_tianhuaban_AlbedoTransparency.png using Guid(861a6f731ecc92b428bce139c6a644ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd3cb4b5d0533dd3b22ad52f392a4bf') in 0.028699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
