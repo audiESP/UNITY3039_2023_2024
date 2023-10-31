@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af39d96d30dc3514ea8029df5a060ee8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultFootstepSound: {fileID: 8300000, guid: fef9ea6995f91164ba46cacabee90bd1, type: 3}
+  - forestFootstepSound: {fileID: 8300000, guid: 74708549d950d264d8c57d468b988821, type: 3}
+  - caveFootstepSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
