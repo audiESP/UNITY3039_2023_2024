@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3ac747de-7714-4cdb-85dd-2d0a7c2cd28b}">
+		<property name="assetPath">
+			<value>03-consolidated.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5173333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{227cf04a-42d2-4326-a531-89f4239e809f}</destination>
+		</relationship>
+	</object>
+</objects>

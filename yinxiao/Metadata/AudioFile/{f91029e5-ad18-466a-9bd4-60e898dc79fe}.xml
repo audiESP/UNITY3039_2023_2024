@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f91029e5-ad18-466a-9bd4-60e898dc79fe}">
+		<property name="assetPath">
+			<value>bathroom fansound.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>70.855487528344668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{227cf04a-42d2-4326-a531-89f4239e809f}</destination>
+		</relationship>
+	</object>
+</objects>
