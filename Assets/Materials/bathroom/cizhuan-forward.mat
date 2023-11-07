@@ -12,6 +12,7 @@ Material:
   m_Parent: {fileID: 2100000, guid: 134d0efad9f73c3498ffb012f82eca1a, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _EMISSION
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _OCCLUSIONMAP
