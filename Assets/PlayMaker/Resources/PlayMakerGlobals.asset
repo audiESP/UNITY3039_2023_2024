@@ -42,3 +42,9 @@ MonoBehaviour:
   - hide cursor
   - prompt interaction
   - stop prompting intearction
+  - 'cursor is moving '
+  - door1 is currently locked
+  - player found out the key
+  - player fully collected all photos
+  - player assembled all photos
+  - hitdoor_finished
