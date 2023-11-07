@@ -149,8 +149,8 @@ MonoBehaviour:
   SwitchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../yinxiao/yinxiao.fspro
-  sourceBankPath: ../yinxiao/Build
+  sourceProjectPath: ../../FIT3039/A3/yinxiao/yinxiao.fspro
+  sourceBankPath: ../../FIT3039/A3/yinxiao/Build
   SourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -186,7 +186,7 @@ MonoBehaviour:
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131591
-  HideSetupWizard: 0
+  HideSetupWizard: 1
   LastEventReferenceScanVersion: 131591
   Platforms:
   - {fileID: -7620119249792386695}
