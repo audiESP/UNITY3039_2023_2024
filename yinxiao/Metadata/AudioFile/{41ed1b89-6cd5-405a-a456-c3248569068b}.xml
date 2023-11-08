@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{41ed1b89-6cd5-405a-a456-c3248569068b}">
+		<property name="assetPath">
+			<value>kid_crying.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.2426757369614512</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{227cf04a-42d2-4326-a531-89f4239e809f}</destination>
+		</relationship>
+	</object>
+</objects>
